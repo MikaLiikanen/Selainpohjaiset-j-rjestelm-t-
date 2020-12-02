@@ -64,3 +64,10 @@
   top: 100px;
   left: 0px;
 }
+.virhe{
+  background-color:red;
+}
+body{
+  background-color:rgb(197, 222, 238);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
